@@ -68,9 +68,8 @@ https://youtu.be/s2idUe94iko
 # (e) E-Commerce Agent with ADK + MCP + AlloyDB
 
 ### 🎥 Video Link
-➡️ Insert your video link here:  
 
-[`[E-Commerce Agent Video](ADD_LINK_HERE)`](https://www.youtube.com/watch?v=1Cpc1OoCOMs)
+https://www.youtube.com/watch?v=1Cpc1OoCOMs
 
 ### 📖 References
 - Codelab: Sports Shop Agent with ADK + MCP + AlloyDB  
