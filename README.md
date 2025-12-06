@@ -56,7 +56,8 @@ Each project includes complete code, execution steps, and a video walkthrough li
 
 ### 🎥 Video Link
 ➡️ Insert your video link here:  
-`[[Code Review Assistant Video](https://youtu.be/s2idUe94iko)]`
+
+https://youtu.be/s2idUe94iko
 
 ### 📖 References
 - Codelab: ADK Code Reviewer Assistant  
