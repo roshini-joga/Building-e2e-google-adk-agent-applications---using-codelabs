@@ -16,36 +16,7 @@ Each project includes complete code, execution steps, and a video walkthrough li
  ├── README.md
 ```
 
----
-
-## 🔧 Prerequisites
-```bash
-python -m venv .venv
-source .venv/bin/activate      # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-```
-
-Environment setup:
-```bash
-export GOOGLE_CLOUD_PROJECT=<your-project-id>
-export GOOGLE_LOCATION=us-central1
-export GEMINI_MODEL=gemini-2.5-flash
-```
-
-Run ADK:
-```bash
-adk web
-# or
-adk run agent
-```
-
----
-
 # (a) Deep Research Lead Generation Agent
-
-**Folder:** `a-deep-research-leads/`
-
-This agent performs multi-step deep research: web search → summarization → ranking → CSV output.
 
 ### 🎥 Video Link
 ➡️ Insert your video link here:  
@@ -59,10 +30,6 @@ This agent performs multi-step deep research: web search → summarization → r
 
 # (b) Advanced Tool Agent Using Gemini CLI
 
-**Folder:** `b-gemini-cli-tool-agent/`
-
-This agent wraps the **Gemini CLI as a tool** inside an ADK pipeline.
-
 ### 🎥 Video Link
 ➡️ Insert your video link here:  
 `[Gemini CLI Tool Agent Video](ADD_LINK_HERE)`
@@ -74,10 +41,6 @@ This agent wraps the **Gemini CLI as a tool** inside an ADK pipeline.
 ---
 
 # (c) MCP Tools-Based Software Bug Assistant
-
-**Folder:** `c-mcp-bug-assistant/`
-
-A debugging assistant that uses MCP Tools to analyze code, logs, and GitHub issues.
 
 ### 🎥 Video Link
 ➡️ Insert your video link here:  
@@ -91,10 +54,6 @@ A debugging assistant that uses MCP Tools to analyze code, logs, and GitHub issu
 
 # (d) Production-Quality Code Review Assistant
 
-**Folder:** `d-code-review-assistant/`
-
-A full code review agent: static analysis → style checks → test generation → fix suggestions.
-
 ### 🎥 Video Link
 ➡️ Insert your video link here:  
 `[Code Review Assistant Video](ADD_LINK_HERE)`
@@ -106,10 +65,6 @@ A full code review agent: static analysis → style checks → test generation �
 ---
 
 # (e) E-Commerce Agent with ADK + MCP + AlloyDB
-
-**Folder:** `e-ecommerce-agent-alloydb/`
-
-A production-ready e-commerce assistant supporting product search, ordering, and order tracking.
 
 ### 🎥 Video Link
 ➡️ Insert your video link here:  
