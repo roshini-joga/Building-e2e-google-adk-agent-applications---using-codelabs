@@ -87,20 +87,6 @@ https://www.youtube.com/watch?v=1Cpc1OoCOMs
 | Code Review Assistant | Code Reviewer Codelab; Reference GitHub |
 | E-Commerce Agent | Sports Agent Codelab; AlloyDB sample repo |
 
----
-
-# 🎥 Video Upload Checklist
-
-| Agent | Video Link |
-|-------|------------|
-| Deep Research LeadGen | ADD_LINK_HERE |
-| Gemini CLI Tool Agent | ADD_LINK_HERE |
-| MCP Bug Assistant | ADD_LINK_HERE |
-| Code Review Assistant | ADD_LINK_HERE |
-| E-Commerce Agent | ADD_LINK_HERE |
-
----
-
 # 🏁 Conclusion
 
 This repository demonstrates advanced agent engineering concepts using:
