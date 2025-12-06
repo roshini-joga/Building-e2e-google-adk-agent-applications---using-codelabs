@@ -1,21 +1,5 @@
 # README – End-to-End Google ADK Agents Assignment
 
-This repository contains **five AI agents built using the Google Agent Development Kit (ADK)**.  
-Each project includes complete code, execution steps, and a video walkthrough link placeholder.
-
----
-
-## 📁 Repository Structure
-```
-/
- ├── a-deep-research-leads/
- ├── b-gemini-cli-tool-agent/
- ├── c-mcp-bug-assistant/
- ├── d-code-review-assistant/
- ├── e-ecommerce-agent-alloydb/
- ├── README.md
-```
-
 # (a) Deep Research Lead Generation Agent
 
 ### 🎥 Video Link
