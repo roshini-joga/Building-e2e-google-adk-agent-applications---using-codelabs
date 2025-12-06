@@ -113,7 +113,8 @@ A production-ready e-commerce assistant supporting product search, ordering, and
 
 ### 🎥 Video Link
 ➡️ Insert your video link here:  
-`[E-Commerce Agent Video](ADD_LINK_HERE)`
+
+[`[E-Commerce Agent Video](ADD_LINK_HERE)`](https://www.youtube.com/watch?v=1Cpc1OoCOMs)
 
 ### 📖 References
 - Codelab: Sports Shop Agent with ADK + MCP + AlloyDB  
