@@ -19,8 +19,7 @@ Each project includes complete code, execution steps, and a video walkthrough li
 # (a) Deep Research Lead Generation Agent
 
 ### 🎥 Video Link
-➡️ Insert your video link here:  
-`[Deep Research Agent Video](ADD_LINK_HERE)`
+https://youtu.be/Uhkn6HV8AxI
 
 ### 📖 References
 - Blog: Build a Deep Research Agent with ADK  
@@ -31,8 +30,7 @@ Each project includes complete code, execution steps, and a video walkthrough li
 # (b) Advanced Tool Agent Using Gemini CLI
 
 ### 🎥 Video Link
-➡️ Insert your video link here:  
-`[Gemini CLI Tool Agent Video](ADD_LINK_HERE)`
+https://youtu.be/_Bvd9zU4egc
 
 ### 📖 References
 - Article: Combine ADK + Gemini CLI + Cloud Run  
