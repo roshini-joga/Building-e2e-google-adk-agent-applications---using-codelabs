@@ -43,8 +43,7 @@ Each project includes complete code, execution steps, and a video walkthrough li
 # (c) MCP Tools-Based Software Bug Assistant
 
 ### 🎥 Video Link
-➡️ Insert your video link here:  
-[`[MCP Bug Assistant Video](https://youtu.be/H8F9Hid4wug)`]
+https://youtu.be/H8F9Hid4wug
 
 ### 📖 References
 - Codelab: Tools Make an Agent – From Zero to Assistant  
