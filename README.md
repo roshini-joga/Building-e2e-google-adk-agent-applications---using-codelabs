@@ -44,7 +44,7 @@ Each project includes complete code, execution steps, and a video walkthrough li
 
 ### 🎥 Video Link
 ➡️ Insert your video link here:  
-`[MCP Bug Assistant Video](ADD_LINK_HERE)`
+[`[MCP Bug Assistant Video](https://youtu.be/H8F9Hid4wug)`]
 
 ### 📖 References
 - Codelab: Tools Make an Agent – From Zero to Assistant  
